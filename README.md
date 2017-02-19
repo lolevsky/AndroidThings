@@ -1,2 +1,2 @@
 # AndroidThings
-Simple project the demonstrate Android things and Firebase integration
+Simple project that demonstrate Android things and Firebase integration.
