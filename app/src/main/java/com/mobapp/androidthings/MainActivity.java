@@ -1,4 +1,4 @@
-package com.mobapp.androidthings1;
+package com.mobapp.androidthings;
 
 import com.google.android.things.pio.Gpio;
 import com.google.android.things.pio.GpioCallback;

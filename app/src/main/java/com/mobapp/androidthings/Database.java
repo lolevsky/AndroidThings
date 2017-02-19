@@ -1,4 +1,4 @@
-package com.mobapp.androidthings1;
+package com.mobapp.androidthings;
 
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;

@@ -1,4 +1,4 @@
-package com.mobapp.androidthings1;
+package com.mobapp.androidthings;
 
 import android.app.backup.BackupManager;
 import android.content.Context;

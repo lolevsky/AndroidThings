@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.mobapp.androidthings1">
+          package="com.mobapp.androidthings">
 
     <application
             android:name=".MainApplication"

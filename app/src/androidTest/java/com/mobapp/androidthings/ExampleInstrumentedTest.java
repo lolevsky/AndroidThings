@@ -1,4 +1,4 @@
-package com.mobapp.androidthings1;
+package com.mobapp.androidthings;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
