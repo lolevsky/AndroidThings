@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">carmoduleApp</string>
+    <string name="service_id">com.mobapp.carmodule</string>
+    <string name="google_api_not_connected">Not connected to car.</string>
+    <string name="connected_to">Connected to: %s</string>
+</resources>

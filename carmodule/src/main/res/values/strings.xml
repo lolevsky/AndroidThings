@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">carModule</string>
+    <string name="service_id">com.mobapp.carmodule</string>
+</resources>
